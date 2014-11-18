@@ -1,0 +1,11 @@
+{
+  "name": "vsbnat",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "*",
+    "socket.io-client": "*",
+    "socket.io": "*",
+    "http-proxy": "*"
+  }
+}
